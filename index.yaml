@@ -19,6 +19,6 @@ entries:
     name: instavote
     type: application
     urls:
-    - https://github.com/PreciousDipe/voting-app.git/instavote-0.1.0.tgz
+    - https://preciousdipe.github.io/voting-app/instavote-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-24T12:11:21.064502177Z"
