@@ -1,0 +1,9 @@
+dependencies:
+- name: vote
+  repository: file://../vote
+  version: 0.1.0
+- name: redis
+  repository: file://../redis
+  version: 0.1.0
+digest: sha256:9c360ca6b6a986df7fd7f8bfdb62e13905f797455be7ffbe31975081db3d13d3
+generated: "2025-07-24T10:47:45.018236092Z"
