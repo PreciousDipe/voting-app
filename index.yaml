@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  instavote:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-07-24T12:11:21.070912434Z"
+    dependencies:
+    - name: vote
+      repository: file://./vote
+      version: 0.1.0
+    - name: redis
+      repository: file://./redis
+      version: 0.1.0
+    - name: main
+      repository: file://./main
+      version: 1.0.0
+    description: Directory chart for the Instavote voting application
+    digest: e738c348361b77f2c666aa08d51f01d47ec32d1b6a6bd5fa9012515d294068e3
+    name: instavote
+    type: application
+    urls:
+    - https://github.com/PreciousDipe/voting-app.git/instavote-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-24T12:11:21.064502177Z"
